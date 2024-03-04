@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 13ffe63b-f49a-4504-ab43-687a2e8e3786
+      url: 'minjung-kim.netlify.app'
