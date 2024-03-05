@@ -10,6 +10,15 @@ website:
         text: Bio
       - href: projects.qmd
         text: Projects
+    right:
+      - icon: github
+        menu: 
+          - text: Website Source Code
+            url: https://github.com/mjkim24/personal-website
+          - text: Github Profile
+            url: https://github.com/mjkim24
+  page-footer:
+    right: "&copy; 2024, Min Jung Kim"
 
 format:
   html:

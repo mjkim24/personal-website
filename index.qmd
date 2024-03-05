@@ -1,6 +1,20 @@
+---
+toc: false
+about:
+  template: trestles
+  links: 
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/mj-kim-0460a9218/
+        - icon: github
+          text: Github
+          url: https://github.com/mjkim24
+        - icon: inbox-fill
+          text: Email
+          url: "mailto:mjkimm24@gmail.com"
+image: profile-picture.PNG
+---
 
+## Min Jung Kim's Website
 
-## Title of Website 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Attached is my current [CV](/docs/CV/CV.pdf "CV")
