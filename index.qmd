@@ -17,4 +17,8 @@ image: profile-picture.PNG
 
 ## Min Jung Kim's Website
 
+Fourth-year UCLA student majoring in Statistics and Data Science, seeking a professional career in Data Analytics and Marketing Analytics. 
+
 Attached is my current [CV](/docs/CV/CV.pdf "CV")
+
+
