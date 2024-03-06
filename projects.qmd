@@ -4,19 +4,12 @@ title: "Projects"
 
 - IMBD Sentiment Analysis
 
+- UCLA Campus Climate Analysis
 
-### UCLA Campus Climate Analysis
+- New York City Airbnb Housing Market Analysis
 
-Attached is the report. 
+- World Happiness Report Analysis
 
-### New York City Airbnb Housing Market Analysis
+- Analysis of the Distribution of U.S Highway Fatalities
 
-Attached is the report. 
-
-### World Happiness Report Analysis
-
-Attached is the report. 
-
-### Analysis of the Distribution of U.S Highway Fatalities
-
-Attached is the report. 
+. 
