@@ -19,6 +19,7 @@ image: profile-picture.PNG
 
 Fourth-year UCLA student majoring in Statistics and Data Science, seeking a professional career in Data Analytics and Marketing Analytics. 
 
-Attached is my current [resume](/docs/Resume/Newest Resume.pdf "Resume")
+Attached is my current [resume](/docs/Resume/Newest Resume.pdf "resume")
+
 
 
