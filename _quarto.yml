@@ -6,8 +6,8 @@ website:
     left:
       - href: index.qmd
         text: About
-      # - href: about.qmd
-      #   text: Bio
+      - href: experience.qmd
+        text: Work Experience
       - href: projects.qmd
         text: Projects
     right:
