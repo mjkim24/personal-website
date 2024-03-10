@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-- [IMBD Sentiment Analysis](/docs/IMDB/IMDB_Project (1).pdf "IMDB")
+- [IMDB Sentiment Analysis](/docs/IMDB/IMDB_Project (1).pdf "IMDB")
 
 - [UCLA Campus Climate Analysis](/docs/UCLA Campus Climate/UCLA Campus Climate Analysis.pdf "UCLA Campus Climate")
 
