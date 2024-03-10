@@ -6,9 +6,11 @@ title: "Projects"
 
 - [UCLA Campus Climate Analysis](/docs/UCLA Campus Climate/UCLA Campus Climate Analysis.pdf "UCLA Campus Climate")
 
+
+- [World Happiness Report Analysis](/docs/World Happiness/World Happiness Report Analysis.pdf "World Happiness")
+
 - [New York City Airbnb Housing Market Analysis](https://airbudnbud.humspace.ucla.edu/)
 
-- [World Happiness Report Analysis](/docs/World Happiness Report Analysis/World Happiness Report Analysis.pdf, "World Happiness Report Analysis")
 
 
 . 
